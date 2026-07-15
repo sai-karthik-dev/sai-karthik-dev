@@ -1,42 +1,109 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Sai Karthik and I'm a developer from India</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,50:2575FC,100:00F260&text=Sai%20Karthik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Web%20Developer%20|%20India%20🇮🇳&descAlignY=60"/>
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVsOWtjYTUzZXUzNHdodWtnMHg4aWMzcXlkOGR5dXVibnFyczNqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sai+Karthik;Python+Developer;Frontend+Developer;Always+Learning+New+Things!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@SaiKarthikRaghupatruni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/saikarthik.exe/?utm_source=ig_web_button_share_sheet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="saikarthikraghupatruni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-karthik-raghupatruni-064a15420/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVsOWtjYTUzZXUzNHdodWtnMHg4aWMzcXlkOGR5dXVibnFyczNqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+# 👨‍💻 About Me
+
+- 🇮🇳 Developer from India
+- 💻 Passionate about Programming & Web Development
+- 🌱 Currently learning Full Stack Development
+- 🚀 Love building useful and creative projects
+- 📫 **Email:** saikarthikraghupatruni@gmail.com
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 📊 GitHub Stats
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/sai-/sai-/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sai-karthik-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-karthik-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sai-karthik-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sai-karthik-dev&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-karthik-dev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sai-karthik-raghupatruni-064a15420/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/saikarthik.exe/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@SaiKarthikRaghupatruni" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:saikarthikraghupatruni@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sai-karthik-dev&style=for-the-badge&color=0e75b6"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F260,50:2575FC,100:6A11CB"/>
