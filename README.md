@@ -1,126 +1,42 @@
-<div align="center">
+<h2 data-importer="text" align="left">Hi 👋! My name is Sai Karthik and I'm a developer from India</h2>
 
-# Hi 👋, I'm Sai Karthik
+###
 
-### 💻 Full Stack Developer | Python Enthusiast | Tech Explorer 🇮🇳
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVsOWtjYTUzZXUzNHdodWtnMHg4aWMzcXlkOGR5dXVibnFyczNqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Frontend+Developer;Always+Learning+New+Things!;Let's+Build+Something+Awesome!"/>
+###
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
----
+###
 
-<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVsOWtjYTUzZXUzNHdodWtnMHg4aWMzcXlkOGR5dXVibnFyczNqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
-## 🚀 About Me
-
-🎓 Passionate Developer from **India**
-
-💻 Building projects with **Python, HTML, CSS & JavaScript**
-
-🌱 Currently learning **Full Stack Development**
-
-🚀 Interested in AI, Automation and Web Development
-
-🤝 Open to collaborating on interesting projects
-
-⚡ Fun Fact:
-> *"Code. Learn. Improve. Repeat."*
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
-
+<div data-importer="socials" align="left">
+  <a href="https://www.youtube.com/@SaiKarthikRaghupatruni" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/saikarthik.exe/?utm_source=ig_web_button_share_sheet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="saikarthikraghupatruni@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-karthik-raghupatruni-064a15420/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
----
+###
 
-## 🌐 Connect with Me
+<br clear="both">
 
-<div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/sai-/sai-/snake-output/snake.svg" alt="Snake animation" />
 
-<a href="https://www.linkedin.com/in/sai-karthik-raghupatruni-064a15420/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/saikarthik.exe/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@SaiKarthikRaghupatruni">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:saikarthikraghupatruni@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sai-karthik-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-karthik-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sai-karthik-dev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sai-karthik-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-karthik-dev&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sai-/sai-/snake-output/snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for visiting!
-
-<img src="https://komarev.com/ghpvc/?username=sai-karthik-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-⭐ **If you like my work, consider following me!**
-
-</div>
+###
