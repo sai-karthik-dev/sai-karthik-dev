@@ -28,126 +28,19 @@ I'm currently focused on improving my web development skills, writing clean code
 
 <div align="center">
 
-<table>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,githubactions,fastapi,vscode,vercel,figma,ps,pr&perline=4" />
 
-<tr>
+</div>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=html"/><br><br>
-<b>HTML5</b>
-</td>
+---
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=css"/><br><br>
-<b>CSS3</b>
-</td>
+# 🤖 AI & Platforms
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=js"/><br><br>
-<b>JavaScript</b>
-</td>
+<div align="center">
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python"/><br><br>
-<b>Python</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=git"/><br><br>
-<b>Git</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github"/><br><br>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=githubactions"/><br><br>
-<b>GitHub Actions</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=fastapi"/><br><br>
-<b>FastAPI</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vercel"/><br><br>
-<b>Vercel</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=railway"/><br><br>
-<b>Railway</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vscode"/><br><br>
-<b>VS Code</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=figma"/><br><br>
-<b>Figma</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github"/><br><br>
-<b>GitHub Copilot</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="48"/><br><br>
-<b>OpenAI</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/><br><br>
-<b>Canva</b>
-</td>
-
-<td align="center" width="150">
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48"/><br><br>
-<b>Adobe Photoshop</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="150">
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="48"/><br><br>
-<b>Adobe Premiere Pro</b>
-</td>
-
-<td align="center" width="150">
-&nbsp;
-</td>
-
-<td align="center" width="150">
-&nbsp;
-</td>
-
-<td align="center" width="150">
-&nbsp;
-</td>
-
-</tr>
-
-</table>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
 
